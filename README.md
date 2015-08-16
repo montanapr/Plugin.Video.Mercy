@@ -1,1 +1,1 @@
-# Plugin.Video.Mercy
+# Plugin.Video.Goku
